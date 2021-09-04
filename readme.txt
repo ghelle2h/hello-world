@@ -1,1 +1,1 @@
-So this is a plain txt file and I don't think I'm going to complete everything in time.
+So this is a plain txt file and I don't think I'm going to complete everything in time. I gotta add another line to readme
